@@ -1,7 +1,7 @@
 {
-  "name": "mi-producto",
+  "name": "QuitzFlash",
   "version": "0.1.0",
-  "description": "Proyecto de Lenguaje de Programación · cambia este texto por la descripción de tu producto",
+  "description": "Interfaz web de una pagina de preguntas rapidas.",
   "private": true,
   "type": "module",
   "engines": {
